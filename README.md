@@ -1,0 +1,2 @@
+# back-stage-management
+这是一个简单的甜品店后端管理系统，基于Spring Boot框架和MyBatis框架的Web应用。使用Java作为主要的编程语言，前端使用Vue框架和Element Plus组件库进行开发，数据库使用MySQL，Navicat作为数据库客户端工具。项目的主要功能包括模块信息的增删改查、用户权限管理、用户注册与登录、文件的上传与下载等。
